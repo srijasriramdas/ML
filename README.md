@@ -1,4 +1,4 @@
-#ML Assignment 1
+**#ML Assignment 1**
 1. Regression
 For this exercise, we have to experiment with regression, regularization, and cross-validation. Choose
 appropriate Dataset.
@@ -49,7 +49,7 @@ Explain your answer.
 2. Experiment on any complex datasets to demonstrate the Linear REGRESSION and its versions, and
 logistic regression (CLASSIFICATION) along with complete data preprocessing steps.
 
-#ML Assignment 2
+**#ML Assignment 2**
 
 Optimized K-Means Clustering for Customer Segmentation using Dimensionality Reduction
 
