@@ -1,4 +1,4 @@
-# ML_Assignment1
+# ML Assignment1
 
 1. Regression
 For this exercise, we have to experiment with regression, regularization, and cross-validation. Choose
@@ -49,3 +49,13 @@ Explain your answer.
 
 2. Experiment on any complex datasets to demonstrate the Linear REGRESSION and its versions, and
 logistic regression (CLASSIFICATION) along with complete data preprocessing steps.
+
+#ML Assignment 2
+
+Optimized K-Means Clustering for Customer Segmentation using Dimensionality Reduction
+
+This project focuses on applying Optimized K-Means Clustering to perform effective customer segmentation using the Mall Customers dataset. The workflow involves data preprocessing, feature scaling, and dimensionality reduction using Principal Component Analysis (PCA) to improve clustering performance and visualization. The optimal number of clusters (k) was determined through the Elbow Method and Silhouette Score analysis.
+
+The optimized K-Means model was compared against other clustering algorithms such as Agglomerative, DBSCAN, and Spectral Clustering to evaluate performance and interpretability. Results showed that the PCA + K-Means combination achieved the highest silhouette score, forming distinct and meaningful customer groups based on spending behavior and income levels.
+
+This approach demonstrates how dimensionality reduction enhances clustering efficiency, reduces computational cost, and improves the interpretability of customer segments — making it a practical solution for targeted marketing and data-driven decision making.
